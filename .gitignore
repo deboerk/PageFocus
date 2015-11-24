@@ -1,0 +1,9 @@
+.directory
+.~lock.*
+Thumbs.db*
+thumbs.db*
+*~
+*.rkward_autosave
+tmp/
+~$*
+*.kate-swp
