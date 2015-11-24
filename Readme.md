@@ -2,7 +2,7 @@
 
 PageFocus is a JavaScript that allows to determine if and how frequently users abandon web pages by switching to another window or browser tab.
 
-The PageFocus.html file is part of the supplemental material of the article _PageFocus: Using Paradata to Detect and Prevent Cheating on Online Achievement Tests_ by Birk Diedenhofen and Jochen Musch. The JavaScript section of the file includes version 1.03 of the PageFocus script.
+The PageFocus.html file is part of the supplemental material of the article _PageFocus: Using Paradata to Detect and Prevent Cheating on Online Achievement Tests_ by Birk Diedenhofen and Jochen Musch. The JavaScript section of the file includes version 1.3 of the PageFocus script.
 
 ## License
 
